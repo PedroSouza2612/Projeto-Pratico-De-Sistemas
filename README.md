@@ -9,7 +9,8 @@
  
  # Integrantes
 
- |   RA    |                  Nome                     | Curso | Turma |   
+ |   RA    |                  Nome                     | Curso | Turma |
+ |---------|-------------------------------------------|-------|-------|   
  |920127210|       Macmiller Duarte de Andrade         | TADS  |   4A  |
  |920120103|        Victor Henrique dos Santos         | TADS  |   4A  |
  |920121820| Pedro Henrique Gonçalves dos Santos Souza | TADS  |   4A  |
